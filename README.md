@@ -132,6 +132,36 @@ I’m a passionate educator and technology enthusiast with over 21 years of IT e
 - **Power Platform**- Created custom connectors to extend Power Apps functionalities beyond standard offerings.
     <img src="https://github.com/nikita-agrawal52/nikita-agrawal52/blob/main/images/29.jpg" height="200" alt="poster"  />
 ## Blogs and Articles ✍️
+- [MVP Award](https://www.linkedin.com/feed/update/urn:li:activity:7004520855078604800/)
+- [LinkedInLocal PuneSouth - Connecting Humans In Real Life](https://www.linkedin.com/pulse/linkedinlocal-punesouth-connecting-humans-real-life-fazlehoussen/)
+- [aMS Delhi](https://www.linkedin.com/pulse/ams-delhi-mourtaza-fazlehoussen/)
+- [Innovation and Technology](https://www.linkedin.com/pulse/innovation-technology-mourtaza-fazlehoussen/)
+- [ChatGPT - vba code to create a powerpoint presentation](https://www.linkedin.com/pulse/chatgpt-vba-code-create-powerpoint-presentationfazlehoussen/)
+- [ChatGPT – Personal Assistant with Power Apps](https://www.linkedin.com/pulse/chatgpt-personal-assistant-power-apps-mourtazafazlehoussen-rbxzf/)
+- [Getting Started with the OpenAI API](https://www.linkedin.com/pulse/getting-started-openai-api-mourtaza-fazlehoussen-obumf/)
+- [Power Platform – Custom Connector](https://www.linkedin.com/pulse/power-platform-custom-connector-mourtaza-fazlehoussenkhhjf/)
+- [ How to Integrate Connectors with Power Apps: A step-by-step guide](https://www.linkedin.com/pulse/how-integrate-connectors-power-apps-step-by-stepfazlehoussen-rgfjf/)
+- [The Role of a CISO in Building a Modern Cybersecurity Culture](https://www.linkedin.com/pulse/role-ciso-building-modern-cybersecurity-culture-mourtazafazlehoussen-bvdjf/)
+- [Upload Document in SAP Easy DMS using ODATA, SharePoint Online & Microsoft Power Automate](https://www.linkedin.com/pulse/upload-document-sap-easy-dms-using-odata-sharepointfazlehoussen-quh2f)
+- [Visual ChatGPT](https://www.linkedin.com/pulse/visual-chatgpt-mourtaza-fazlehoussen-lbtbf)
+- [Power Apps – Express Design (Build an app in seconds) – Image to app](https://www.linkedin.com/pulse/power-apps-express-design-build-app-seconds-imagefazlehoussen-kaw2f)
+- [Power Apps – Express Design (Build an app in seconds) – Figma to app](https://www.linkedin.com/pulse/power-apps-express-design-build-app-seconds-figmafazlehoussen-uv0rf)
+- [Predictions from the Past: How Bill Gates envisioned our Digital Future](https://www.linkedin.com/pulse/predictions-from-past-how-bill-gates-envisioned-ourfazlehoussen-ptlhf)
+- [Vaccine for all!](https://www.linkedin.com/pulse/vaccine-all-mourtaza-fazlehoussen-e6gkf)
+- [Digital Transformation – 5 steps to success](https://www.linkedin.com/pulse/digital-transformation-5-steps-success-mourtazafazlehoussen-75pxf)
+- [Restrict your Azure AD app to a set of users in an Azure AD tenant](https://www.linkedin.com/pulse/restrict-your-azure-ad-app-set-users-tenant-mourtazafazlehoussen-iaue)
+- [Register an app with the Azure Active Directory v2.0 endpoint](https://www.linkedin.com/pulse/register-app-azure-active-directory-v20-endpointfazlehoussen-fhfrf)
+- [Azure Active Directory – Web app / Api – Step by step](https://www.linkedin.com/pulse/azure-active-directory-web-app-api-step-mourtazafazlehoussen-hryn)
+- [Azure Active Directory – Native app – Step by step](https://www.linkedin.com/pulse/azure-active-directory-native-app-step-mourtazafazlehoussen-n0i9f)
+- [Azure Authentication using OAuth in ASP.NET WebForms (Owin)](https://www.linkedin.com/pulse/azure-authentication-using-oauth-aspnet-webforms-owinfazlehoussen-2tu4f)
+- [Team Collaboration on PowerApps](https://www.linkedin.com/pulse/team-collaboration-powerapps-mourtaza-fazlehoussen-ybdzf)
+- [Update User Profile Picture across all Office 365 apps and Skype for Business using Power Apps, SharePoint, Graph Api & Azure Web Jobs – Part 1](https://www.linkedin.com/pulse/update-user-profile-picture-across-all-office-365-apifazlehoussen-nvovf)
+- [Update User Profile Picture across all Office 365 apps and Skype for Business using Power Apps, SharePoint, Graph Api & Azure Web Jobs – Part 2](https://www.linkedin.com/pulse/update-user-profile-picture-across-all-office-365-apifazlehoussen-ogcjf)
+- [Convert Microsoft Office Documents into PDF using Microsoft Graph & Azure Functions](https://www.linkedin.com/pulse/convert-microsoft-office-documents-pdf-using-graphfazlehoussen-xsy9)
+
+
+
+
 ## Recognition 🏆
 - **2023 Microsoft MVP!** <br>
     Honored with the Microsoft MVP award for contributions to the community and technology excellence.<br>
