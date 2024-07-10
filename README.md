@@ -110,6 +110,12 @@ I’m a passionate educator and technology enthusiast with over 21 years of IT e
 - **🔭 I’m currently focusing on digital strategies and leveraging Office 365 Business Suite Apps to unlock value for businesses.**
 - **🌱 I’m continuously learning and exploring new technologies to stay ahead in the digital landscape.**
 - **💬 Ask me about digital transformation, Office 365, and how technology can empower individuals and organizations.**
+
+## Recognition 🏆
+- **2023 Microsoft MVP!** <br>
+    Honored with the Microsoft MVP award for contributions to the community and technology excellence.<br>
+    <img src="https://github.com/nikita-agrawal52/nikita-agrawal52/blob/main/images/1.png" height="100" alt="poster"  />
+    <img src="https://github.com/nikita-agrawal52/nikita-agrawal52/blob/main/images/2.png" height="100" alt="poster"  />
 ## Events and Speaking Engagements 🎤
 ### Recent:
 - **19 March 2023**- Empower People with ChatGPT <br>Empowering people involves providing them with the knowledge, resources, and support they need to take control of their lives and make positive changes. We  have seen how ChatGPT can help!!<br>
@@ -162,18 +168,11 @@ I’m a passionate educator and technology enthusiast with over 21 years of IT e
 
 
 
-## Recognition 🏆
-- **2023 Microsoft MVP!** <br>
-    Honored with the Microsoft MVP award for contributions to the community and technology excellence.<br>
-    <img src="https://github.com/nikita-agrawal52/nikita-agrawal52/blob/main/images/1.png" height="100" alt="poster"  />
-    <img src="https://github.com/nikita-agrawal52/nikita-agrawal52/blob/main/images/2.png" height="100" alt="poster"  />
+
 ## Connect with Me 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikita-agrawal-b7396a208)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/nikitaagrawal52)
-[![Instagram kota__notes](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/kota__notes)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/nikita-agrawal52)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+919129744773)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:nikiagrawalllg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mourtaza/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+919923800952)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:fmourtaza@hotmail.com )
 
 ---
 
